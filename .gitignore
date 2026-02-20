@@ -1,0 +1,20 @@
+
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbactions.xml
+nb-configuration.xml
+*.class
+
+
+*.dump
+*.backup
+*.sql.bak
+pgdata/
+postgresql.conf
+pg_hba.conf
+
+# Локальные настройки и пароли
+src/main/resources/*.properties
+src/main/resources/db.properties
